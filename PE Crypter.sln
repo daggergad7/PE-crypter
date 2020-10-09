@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PE Crypter", "PE Crypter\PE Crypter.vcxproj", "{542BD1FF-9BD6-4C22-8A9F-015CD05B0837}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stub_file", "stub_file\stub_file.vcxproj", "{57912477-6689-4FC8-A4FC-60B705F73C2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{542BD1FF-9BD6-4C22-8A9F-015CD05B0837}.Release|x64.Build.0 = Release|x64
 		{542BD1FF-9BD6-4C22-8A9F-015CD05B0837}.Release|x86.ActiveCfg = Release|Win32
 		{542BD1FF-9BD6-4C22-8A9F-015CD05B0837}.Release|x86.Build.0 = Release|Win32
+		{57912477-6689-4FC8-A4FC-60B705F73C2A}.Debug|x64.ActiveCfg = Debug|x64
+		{57912477-6689-4FC8-A4FC-60B705F73C2A}.Debug|x64.Build.0 = Debug|x64
+		{57912477-6689-4FC8-A4FC-60B705F73C2A}.Debug|x86.ActiveCfg = Debug|Win32
+		{57912477-6689-4FC8-A4FC-60B705F73C2A}.Debug|x86.Build.0 = Debug|Win32
+		{57912477-6689-4FC8-A4FC-60B705F73C2A}.Release|x64.ActiveCfg = Release|x64
+		{57912477-6689-4FC8-A4FC-60B705F73C2A}.Release|x64.Build.0 = Release|x64
+		{57912477-6689-4FC8-A4FC-60B705F73C2A}.Release|x86.ActiveCfg = Release|Win32
+		{57912477-6689-4FC8-A4FC-60B705F73C2A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
